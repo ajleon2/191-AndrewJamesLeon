@@ -2,6 +2,7 @@ Answers to questions:
 
 1. Use `git status` to see which branch you are on.
 2. What does `git log` look like?
+
 fatal: your current branch 'master' does not have any commits yet
 
 3. Create a file
