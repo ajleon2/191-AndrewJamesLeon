@@ -4,11 +4,10 @@ This is a practice repository for a 3-way merge.
 Answers to questions:
 
 8. What is the output of `git log --oneline --graph --all`?
-* 86b3df2 (HEAD -> master) Added a README.md file
-| * c8610f4 (greeting) Editted greeting.txt to contain favorite greeting
-|/
-* 40ccd48 Add content to greeting.txt
-* f452737 Add file greeting.txt
+86b3df2 (HEAD -> master) Added a README.md file
+c8610f4 (greeting) Editted greeting.txt to contain favorite greeting
+40ccd48 Add content to greeting.txt
+f452737 Add file greeting.txt
 
 9. Diff the branches
 diff --git a/README.md b/README.md
